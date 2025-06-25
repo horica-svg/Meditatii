@@ -36,13 +36,13 @@
 5. Ce va afișa următorul program daca n = 4721?
    ```sh
    citește n
-    nr ← 0
-    cât timp n ≠ 0 execută
-        cifră ← n % 10
-        nr ← nr * 10 + cifră
-        n ← n // 10
-    scrie nr
-    ```
+   nr ← 0
+   cât timp n ≠ 0 execută
+      cifră ← n % 10
+         nr ← nr * 10 + cifră
+         n ← n // 10
+   scrie nr
+   ```
 
 6. Se dă un număr natural n. Afișați în ordine descrescătoare primele n numere naturale nenule.
    
